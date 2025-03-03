@@ -1,4 +1,4 @@
-baseURL = 'https://nllnltd.github.io/nlln-tech.github.io/'
+baseURL = 'https://nllnltd.github.io/blog/'
 languageCode = 'en-us'
 title = '늘엔 기술연구소 블로그'
 theme = 'PaperMod'
