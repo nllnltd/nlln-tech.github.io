@@ -1,3 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '늘엔 기술연구소 블로그'
+theme = 'PaperMod'
