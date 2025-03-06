@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on 늘엔 기술 블로그</title>
+    <link>http://localhost:1313/blog/tags/tag2/</link>
+    <description>Recent content in Tag2 on 늘엔 기술 블로그</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 18:54:46 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article Title</title>
+      <link>http://localhost:1313/blog/posts/article-title/</link>
+      <pubDate>Wed, 05 Mar 2025 18:54:46 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/article-title/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/blog/posts/jchw/2025-03-05-test/</link>
+      <pubDate>Wed, 05 Mar 2025 13:47:12 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/jchw/2025-03-05-test/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>스포카의 백엔드팀에서 코딩 컨벤션을 관리하는 방법</title>
+      <link>http://localhost:1313/blog/posts/third-post/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/third-post/</guid>
+      <description>&lt;p&gt;스포카의 백엔드팀에서 더 나은 코드와 팀의 생산성을 위해 코딩 컨벤션을 어떻게 발전 시켜나가고 있는지 이야기합니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>식자재 품목 검색을 더 쉽게! 검색 엔진 도입과 개선</title>
+      <link>http://localhost:1313/blog/posts/second-post/</link>
+      <pubDate>Wed, 05 Mar 2025 00:13:45 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/second-post/</guid>
+      <description>&lt;p&gt;Elasticsearch 도입부터 개선까지의 이야기를 다룹니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

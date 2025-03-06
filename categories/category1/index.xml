@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on 늘엔 기술 블로그</title>
+    <link>http://localhost:1313/blog/categories/category1/</link>
+    <description>Recent content in Category1 on 늘엔 기술 블로그</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 18:54:46 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article Title</title>
+      <link>http://localhost:1313/blog/posts/article-title/</link>
+      <pubDate>Wed, 05 Mar 2025 18:54:46 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/article-title/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/blog/posts/jchw/2025-03-05-test/</link>
+      <pubDate>Wed, 05 Mar 2025 13:47:12 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/jchw/2025-03-05-test/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>식자재 품목 검색을 더 쉽게! 검색 엔진 도입과 개선</title>
+      <link>http://localhost:1313/blog/posts/second-post/</link>
+      <pubDate>Wed, 05 Mar 2025 00:13:45 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/second-post/</guid>
+      <description>&lt;p&gt;Elasticsearch 도입부터 개선까지의 이야기를 다룹니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
