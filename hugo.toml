@@ -1,4 +1,84 @@
 baseURL = 'https://nllnltd.github.io/blog/'
+defaultContentLanguage = "en"
 languageCode = 'en-us'
-title = '늘엔 기술연구소 블로그'
-theme = 'PaperMod'
+title = '늘엔 기술 블로그'
+#theme = 'PaperMod'
+theme = 'dream'
+#theme = 'quint'
+#theme = 'ananke'
+#theme = 'maverick'
+
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+# [services]
+# [services.disqus]
+# shortname = ""
+# [services.googleAnalytics]
+# ID = ""
+
+[params]
+#zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "img/global-background.jpg"
+# backgroundImageDark = ""
+
+author = "늘엔"
+# description = ""
+#avatar = "img/avatar.png"
+avatar = "img/nlln_logo.png"
+headerTitle = "늘엔 기술 블로그"
+# motto = ""
+
+footerBottomText = " "
+
+rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+email = "nllncoltd@nlln.co.kr"
+
+siteStartYear = 2025
+
+favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+stickyNav = true
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.navItems]
+
+# [params.twikoo]
+# enabled = true
+# envID = ""
+# region = ""
+# lang = ""
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+jsDate = true
+#jsDateFormat = "yyyy年MM月dd日"
+jsDateFormat = "yyyy.MM.dd"
